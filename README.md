@@ -1,2 +1,2 @@
 # Internship-project
-this is the project given by oasis infobyte in internship
+This is my project given in an internship by Oasis Infobyte.
